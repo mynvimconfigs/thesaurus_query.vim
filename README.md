@@ -1,5 +1,7 @@
 # Multi-Language Thesaurus Query/Replacement Plugin
 
+Forked from Ron89/thesaurus_query.vim.
+
 [![Join the chat at https://gitter.im/Ron89/thesaurus_query.vim](https://badges.gitter.im/Ron89/thesaurus_query.vim.svg)](https://gitter.im/Ron89/thesaurus_query.vim?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a plugin for user to **lookup** synonyms of any word under cursor or
